@@ -12,6 +12,7 @@ content {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 h1 {
     letter-spacing: .2rem;
