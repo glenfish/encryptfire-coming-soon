@@ -15,8 +15,13 @@ content {
     
 }
 h1 {
-    letter-spacing: .2rem;
+    letter-spacing: .1.5rem;
     text-transform: uppercase;
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+    line-height:24px;
+    padding: 10px 45px 10px 45px;
 
 }
 .sitename {
@@ -31,5 +36,9 @@ p {
     background-color: black;
     color: white;
     margin-top: 30px;
-    line-height:24px;
+    line-height:28px;
+}
+.subheader {
+    font-size:24px;
+
 }
