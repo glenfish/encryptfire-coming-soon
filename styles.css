@@ -21,22 +21,31 @@ h1 {
     color: black;
     margin-top: 30px;
     line-height:24px;
-    padding: 10px 45px 10px 45px;
-
+    padding: 10px;
+    border: rgb(78, 78, 78) 2px solid;
+    border-radius: 10px;
 }
 .sitename {
-    color: black;
+    color: rgb(0, 119, 42);
     background: transparent;
+}
+.red {
+    color: rgb(255, 79, 79);
+}
+.gray {
+    color: rgb(54, 54, 54);
 }
 p {
     display: block;
     max-width:300px;
     width:100%;
     padding:23px;
-    background-color: black;
+    background-color: rgb(23, 23, 23);
     color: white;
     margin-top: 30px;
     line-height:28px;
+    border: green 4px solid;
+    border-radius: 10px;
 }
 .subheader {
     font-size:24px;
