@@ -54,3 +54,8 @@ p {
 .green {
     color: rgb(0, 205, 72);
 }
+figcaption {
+    text-align:center;
+    margin-bottom:5px;
+    color: black;
+}
